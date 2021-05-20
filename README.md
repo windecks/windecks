@@ -1,4 +1,6 @@
-### Hello. I am windex, a common household cleaning product.
+### Hello. I am Windex, a common household cleaning product.
+##### I'm on Reddit with the same username, you can find me on Discord at windex#0420
+##### Cheers :3
 
 <!--
 **TheGuardian226/theguardian226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
