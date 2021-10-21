@@ -1,5 +1,5 @@
 ### Hello. I am Windex, a common household cleaning product.
-##### I'm on Reddit with the same username, you can find me on Discord at windex#0420
+##### You can find me on Discord at windex#0420
 ##### Cheers :3
 
 <!--
