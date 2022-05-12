@@ -1,5 +1,5 @@
 ### Hello. I am Windex, a common household cleaning product.
-##### You can find me on Discord at windex#0420 UID:244914878622466048
+##### You can find me on Discord at UID:244914878622466048
 ##### Cheers :3
 
 <!--
