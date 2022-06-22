@@ -1,7 +1,5 @@
-### Hello. I am Windex, a common household cleaning product.
-##### You can find me on Discord at UID:244914878622466048
-##### Cheers :3
-
+### Hello!
+![](https://komarev.com/ghpvc/?username=MohammedAl-Rasheed)
 <!--
 **TheGuardian226/theguardian226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
