@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Joseph, and I am a student at the University of Toronto.
+My name is Sophia, and I am a student at the University of Toronto.
 
 * Incoming Intern @ Google
 * PopOS Fan
